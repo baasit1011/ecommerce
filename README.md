@@ -3,7 +3,6 @@
 An E-commerce API built using Django Rest Framework.
 
 ## Basic Features
-- Registration using either phone number or email https://github.com/earthcomfy/drf-phone-email-auth
 - Basic E-commerce features.
 - Custom permissions set for necessary endpoints.
 - Payment integration using Stripe.
